@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="work.html">Work</a>
+    <a href="writing.html">Writing</a>
+    <a href="frameworks.html">Frameworks</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <h1>Contact</h1>
+
+  <p>
+    For substantive professional matters only.
+  </p>
+
+  <p>
+    Email: <strong>[your.email@domain]</strong>
+  </p>
+
+  <p class="muted">
+    Please include context and purpose.
+  </p>
+</main>
+
+<footer>
+  © David S.
+</footer>
+
+</body>
+</html>

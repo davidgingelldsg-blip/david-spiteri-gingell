@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Work & Domains</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="work.html">Work</a>
+    <a href="writing.html">Writing</a>
+    <a href="frameworks.html">Frameworks</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <h1>Work & Domains</h1>
+
+  <div class="section">
+    <h2>Pension systems & adequacy</h2>
+    <p>
+      Design, assessment, and reform of retirement income systems.
+      Focus on adequacy, sustainability, and system behaviour over time.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Automatic Enrolment architecture</h2>
+    <p>
+      End-to-end design of Automatic Enrolment systems.
+      Governance, compliance, cost structures, and behavioural outcomes.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Public-sector governance & institutional reform</h2>
+    <p>
+      Accountability frameworks, executive oversight,
+      and institutional performance management.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Compliance & international frameworks</h2>
+    <p>
+      System-level assessment against EU law,
+      ILO conventions, and the European Social Charter.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Digital governance & data strategy</h2>
+    <p>
+      Data stewardship, management information systems,
+      and digital systems as instruments of control and accountability.
+    </p>
+  </div>
+</main>
+
+<footer>
+  © David S.
+</footer>
+
+</body>
+</html>

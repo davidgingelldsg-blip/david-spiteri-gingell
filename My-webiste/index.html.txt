@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Governance, Institutional & Digital Transformation</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="work.html">Work</a>
+    <a href="writing.html">Writing</a>
+    <a href="frameworks.html">Frameworks</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <h1>Governance, Institutional & Digital Transformation</h1>
+
+  <p>
+    I work on the design, assessment, and reform of complex public systems.
+    My focus is governance architecture, institutional performance,
+    and the role of digital and data systems as instruments of control and accountability.
+  </p>
+
+  <p>
+    I work at system level.
+    Structure, incentives, compliance, and long-term outcomes.
+    Not commentary. Not slogans.
+  </p>
+
+  <p class="muted">
+    Intended for policymakers, regulators, boards,
+    and institutions dealing with real systems and real consequences.
+  </p>
+</main>
+
+<footer>
+  © David S.
+</footer>
+
+</body>
+</html>

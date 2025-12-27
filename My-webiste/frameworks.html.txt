@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Frameworks & Papers</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="work.html">Work</a>
+    <a href="writing.html">Writing</a>
+    <a href="frameworks.html">Frameworks</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <h1>Frameworks & Papers</h1>
+
+  <p>
+    Working frameworks, methodologies, and technical papers.
+    These reflect how I approach system design and assessment.
+  </p>
+
+  <div class="section">
+    <h2>Pension architecture models</h2>
+    <p>
+      Layered models integrating state pensions,
+      Automatic Enrolment, and supporting measures.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Compliance mapping methodologies</h2>
+    <p>
+      Structured approaches to ILO and European Social Charter
+      compliance assessment at system level.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Governance and performance frameworks</h2>
+    <p>
+      Executive oversight, performance monitoring,
+      and decision-support frameworks.
+    </p>
+  </div>
+</main>
+
+<footer>
+  © David S.
+</footer>
+
+</body>
+</html>

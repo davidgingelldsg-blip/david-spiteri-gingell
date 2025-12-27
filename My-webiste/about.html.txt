@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="work.html">Work</a>
+    <a href="writing.html">Writing</a>
+    <a href="frameworks.html">Frameworks</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <h1>About</h1>
+
+  <p>
+    I work on governance, institutional performance,
+    and the design of public systems under real-world constraints.
+  </p>
+
+  <p>
+    My work spans public policy, regulatory frameworks,
+    institutional reform, and system-level compliance assessment.
+  </p>
+
+  <p>
+    A significant part of my work has focused on pension systems
+    and social protection architecture.
+  </p>
+
+  <p>
+    I approach systems analytically.
+    Structure matters.
+    Incentives matter.
+    Administration matters.
+  </p>
+</main>
+
+<footer>
+  © David S.
+</footer>
+
+</body>
+</html>
